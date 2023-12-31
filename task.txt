@@ -5,7 +5,7 @@ player can
 >choose an individual number
 >choose a third: (1-12)(13-24)(25-36)
 >choose a half:  first half(1-18)
-			    second half(19-36)
+			     second half(19-36)
 >choose a color: red|black
 red:			[(1,3,5,7,9,12,14,16,18,19,21,23,25,27,30,32,34,36)]
 black:			[(2,4,6,8,10,11,13,15,17,20,22,24,26,28,29,31,33,35)]
@@ -46,3 +46,4 @@ research but not important:
 >making the font larger in the console
 >changing the font in console to fancier ones
 >>can be an upgrade to get fancier fonts
+>find a better way to initalize the red and black numbers
