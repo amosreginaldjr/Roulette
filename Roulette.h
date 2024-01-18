@@ -34,5 +34,6 @@ public:
 	Roulette();
 	void setMUserInput(string userInput);
 	bool checkIfUserIsCorrect();
-	void gameRules();
+	void gameControls();
+	void generateNewRandomNumber();
 };
